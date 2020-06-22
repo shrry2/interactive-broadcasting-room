@@ -1,0 +1,38 @@
+[
+  {
+    "fileName": "ding.mp3",
+    "name": "チーン"
+  },
+  {
+    "fileName": "dodon.mp3",
+    "name": "ドドン"
+  },
+  {
+    "fileName": "doorBell.mp3",
+    "name": "ピンポン"
+  },
+  {
+    "fileName": "drumRoll.mp3",
+    "name": "ドラムロール"
+  },
+  {
+    "fileName": "handClap_s.mp3",
+    "name": "拍手（小）"
+  },
+  {
+    "fileName": "handClap_m.mp3",
+    "name": "拍手（中）"
+  },
+  {
+    "fileName": "handClap_l.mp3",
+    "name": "拍手（大）"
+  },
+  {
+    "fileName": "inspiration.mp3",
+    "name": "ピコン（ひらめき）"
+  },
+  {
+    "fileName": "laugh.mp3",
+    "name": "大笑い"
+  }
+]
